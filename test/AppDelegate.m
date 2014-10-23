@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 #import "DetailViewController.h"
 //##
-//remote
+//remote  xxs
 @interface AppDelegate ()
 
 @end
